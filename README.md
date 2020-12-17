@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 안드로이드 개발자입니다. (햇수로 4년차🙊)
+- 재미있고 아름답고 편리한 프로덕트를 만드는 것을 좋아합니다.
+- 최근 관심사 : UX✨ 객체지향의 찐의미🕸 *좋은 개발자*에 대한 고찰💬
+- 항상 재미나고 흥미로운 것들을 쫓습니다🔍
+
 <!--
 **Jiyoung9310/Jiyoung9310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Jiyoung's github stats](https://github-readme-stats.vercel.app/api?username=Jiyoung9310&show_icons=ture)
