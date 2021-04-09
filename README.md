@@ -4,7 +4,7 @@
 - 재미있고 아름답고 편리한 프로덕트를 만드는 것을 좋아합니다.
 - 최근 관심사 : UX✨ 객체지향의 찐의미🕸 *좋은 개발자*에 대한 고찰💬
 - 항상 재미나고 흥미로운 것들을 쫓습니다🔍
-- [NOTION 소개](https://www.notion.so/z0dev/11797ccebdfe4d8ba493cdb663badf98)
+- 👉[NOTION 소개](https://www.notion.so/z0dev/11797ccebdfe4d8ba493cdb663badf98)👈
 
 <!--
 **Jiyoung9310/Jiyoung9310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
